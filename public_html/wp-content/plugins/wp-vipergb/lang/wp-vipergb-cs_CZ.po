@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 20:30+0700\n"
+"PO-Revision-Date: 2011-03-10 00:55+0100\n"
+"Last-Translator: Tom <thomashek@centrum.cz>\n"
+"Language-Team: Tomáš Burian <info@tomasburian.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; \\ plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:27
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../_admin_menu.php:57
+msgid "Options saved."
+msgstr "Nastavení uloženo."
+
+#: ../_admin_menu.php:61
+msgid "WP-ViperGB Options"
+msgstr "Nastavení WP-ViperGB"
+
+#: ../_admin_menu.php:63
+msgid "Manage Entries"
+msgstr "Zpracovat komentáře"
+
+#: ../_admin_menu.php:66
+msgid "To add a Guestbook to your blog, simply create a new page, select it in the first combobox below, and click \"Save.\""
+msgstr "Abyste vložili návštěvní knihu do vašeho blogu, jednoduše vytvořte novou stránku a vyberte ji v prvním seznamu níže a klikněte na \"Uložit.\""
+
+#: ../_admin_menu.php:69
+msgid "Main Settings"
+msgstr "Hlavní nastavení"
+
+#: ../_admin_menu.php:71
+msgid "Guestbook Page"
+msgstr "Stránka s vloženou návštěvní knihou"
+
+#: ../_admin_menu.php:82
+msgid "Guestbook Style"
+msgstr "Styl návštěvní knihy"
+
+#: ../_admin_menu.php:96
+msgid "Extra Settings"
+msgstr "Speciální nastavení"
+
+#: ../_admin_menu.php:97
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Řadit v obráceném pořadí (od nejstaršího k nejnovějšímu)"
+
+#: ../_admin_menu.php:98
+msgid "Entries Per Page"
+msgstr "Počet záznamů na stránku"
+
+#: ../_admin_menu.php:99
+msgid "Allow Image Uploads"
+msgstr "Povolit vkládání obrázků"
+
+#: ../_admin_menu.php:100
+msgid "Max Image Filesize (kb)"
+msgstr "Maximální velikost obrázku (kb)"
+
+#: ../_admin_menu.php:101
+msgid "Show Browser &amp; OS Icons"
+msgstr "Zobrazit ikonky browseru &amp; OS "
+
+#: ../_admin_menu.php:102
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Zobrazit ikonu vlajky (Vyžaduje %s)"
+
+#: ../_admin_menu.php:103
+#, php-format
+msgid "Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much appreciated)"
+msgstr "Vložit odkaz na <a href=\"%s\">domovskou stránku pluginu</a> (nepovinné, ale vážím si toho)"
+
+#: ../_admin_menu.php:105
+msgid "Save"
+msgstr "Uložit"
+
+#: ../_admin_menu.php:109
+msgid "Development"
+msgstr "Vývoj"
+
+#: ../_admin_menu.php:110
+msgid "Many hours have gone into making this plugin as clean and easy to use as possible. Although I offer it to you freely, please keep in mind that each hour spent on it was an hour that could've also gone towards income-generating work. If you find it useful, a small donation would be greatly appreciated :)"
+msgstr "Vytvoření tohoto pluginu tak, aby byl co nejuniverzálnější a jednoduše se používal stálo mnoho hodin práce. I když je plugin zdarma, uvědomte si, že každou hodinu práce na něm jsem mohl strávit nad něčím jiným, co by mi přineslo zisk. Pokud se vám tento plugin líbí, drobným finančním příspěvekem  můžete podpořit jeho další vývoj :)"
+
+#: ../_admin_menu.php:121
+msgid "Credits"
+msgstr "Autor"
+
+#: ../_admin_menu.php:122
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB používá některé další pluginy. Jsou to:"
+
+#: ../_admin_menu.php:124
+msgid "Allow users to embed images in their guestbook entries. <i>This functionality is included by default, but must be explicitly enabled above.</i>"
+msgstr "Umožní uživatelům vkládání obrázků do jejich příspěvků. <i>Součást pluginu,  musí ale být explicitně povolena výše.</i>"
+
+#: ../_admin_menu.php:125
+msgid "Show a browser and operating system icon in each visitor's guestbook entry.  <i>This functionality is included by default.</i>"
+msgstr "Zobrazí ikonky browseru a operačního systému v příspěvku každého uživatele. <i>Součást pluginu.</i>"
+
+#: ../_admin_menu.php:126
+msgid "Show a national flag in each visitor's guestbook entry.  <i>This plugin must be installed separately.</i>"
+msgstr "Zobrazí vlajku země v příspěvku každého uživatele.  <i>Vyžaduje instalaci zvláštního pluginu.</i>"
+
+#: ../_output_guestbook.php:84
+msgid "Show Guestbook"
+msgstr "Zobrazit fórum"
+
+#: ../_output_guestbook.php:88
+msgid "Sign Guestbook"
+msgstr "Vložit příspěvek"
+
+#: ../_output_guestbook.php:97
+msgid "Page"
+msgstr "Strana"
+
+#: ../_output_guestbook.php:132
+msgid "No entries yet"
+msgstr "Žádné příspěvky"
+
+#: ../_output_guestbook.php:149
+msgid "EntryNo"
+msgstr "Id"
+
+#: ../_output_guestbook.php:158
+msgid "Date"
+msgstr "Datum"
+
+#: ../_output_guestbook.php:160
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:160
+msgid "m.d.Y"
+msgstr "m.d.Y"
+
+#: ../_output_guestbook.php:188
+msgid "This entry is awaiting moderation"
+msgstr "Tento příspěvek čeká na schválení"
+
+#: ../_output_guestbook.php:195
+msgid "hidden"
+msgstr "skryté"
+
+#: ../_output_guestbook.php:250
+msgid "Name"
+msgstr "Jméno"
+
+#: ../_output_guestbook.php:258
+msgid "Email"
+msgstr "Email"
+
+#: ../_output_guestbook.php:266
+msgid "Homepage"
+msgstr "Web"
+
+#: ../_output_guestbook.php:270
+msgid "optional"
+msgstr "volitelné"
+
+#: ../_output_guestbook.php:282
+msgid "*If you'd like to customize these values, please "
+msgstr "*Chcete-li změnit tyto hodnoty, musíte se "
+
+#: ../_output_guestbook.php:282
+msgid "Logout"
+msgstr "Odhlásit"
+
+#: ../_output_guestbook.php:287
+msgid "Text"
+msgstr "Text"
+
+#: ../_output_guestbook.php:289
+msgid "Send"
+msgstr "Odeslat"
+
+#: ../_output_guestbook.php:304
+#, php-format
+msgid "Add photo (max %dkb)"
+msgstr "Přidat foto (max %dkb)"
+
+#: ../easy-comment-uploads/main.php:86
+msgid "Upload Files"
+msgstr "Nahrát soubory"
+
+#: ../easy-comment-uploads/main.php:87
+msgid "You can include images or files in your comment by selecting them below. Once you select a file, it will be uploaded and a link to it added to your comment. You can upload as many images or files as you like and they will all be added to your comment."
+msgstr "Do příspěvků můžete vložit obrázky nebo jiné soubory tak, že je veberete níže. Vybraný  soubor bude nahrán a odkaz na něj bude vložen do příspěvku. K vašemu příspěvku můžete nahrát libovolný počet obrázků nebo souborů."
+
+#: ../easy-comment-uploads/main.php:88
+msgid "Select File"
+msgstr "Vybrat soubor"
+

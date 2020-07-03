@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-05 23:03+0400\n"
+"PO-Revision-Date: 2013-06-05 23:06+0400\n"
+"Last-Translator: Dimonira <dimonira@ya.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:29
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../_admin_menu.php:61
+msgid "Options saved."
+msgstr "Параметры сохранены."
+
+#: ../_admin_menu.php:67
+msgid "WP-ViperGB Options"
+msgstr "Настройки WP-ViperGB"
+
+#: ../_admin_menu.php:69
+msgid "Manage Entries"
+msgstr "Управление записями"
+
+#: ../_admin_menu.php:73
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr ""
+"Чтобы добавить Гостевую книгу в ваш блог, просто создайте новую страницу, "
+"выберите её в первом выпадающем списке и нажмите \"Сохранить\""
+
+#: ../_admin_menu.php:80
+msgid "Main Settings"
+msgstr "Основные настройки"
+
+#: ../_admin_menu.php:82
+msgid "Guestbook Page"
+msgstr "Страница размещения"
+
+#: ../_admin_menu.php:93
+msgid "Guestbook Style"
+msgstr "Внешнее оформление"
+
+#: ../_admin_menu.php:107
+msgid "Extra Settings"
+msgstr "Дополнительные настройки"
+
+#: ../_admin_menu.php:108
+msgid "Entries Per Page"
+msgstr "Записей на страницу"
+
+#: ../_admin_menu.php:109
+msgid "Use Digg-style pagination"
+msgstr "Использовать Digg-стиль перелистывания страниц"
+
+#: ../_admin_menu.php:110
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Обратный порядок (выводить от старого к новому)"
+
+#: ../_admin_menu.php:111
+msgid "Allow Image Uploads"
+msgstr "Позволять загружать изображения"
+
+#: ../_admin_menu.php:112
+msgid "Max Image Filesize (kb)"
+msgstr "Максимальный размер файла (кБ)"
+
+#: ../_admin_menu.php:113
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr ""
+"Не допускать анонимных посетителей (допускать только зарегистрированных)"
+
+#: ../_admin_menu.php:114
+msgid "Show Browser &amp; OS Icons"
+msgstr "Показывать иконки типов браузера и операционной системы"
+
+#: ../_admin_menu.php:115
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Показывать иконку национального флага (требуется установить плагин %s)"
+
+#: ../_admin_menu.php:116
+#, php-format
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much "
+"appreciated)"
+msgstr ""
+"Включать ссылку на <a href=\"%s\">домашнюю страницу</a> разработчика "
+"(необязательно, но очень рекомендуется)"
+
+#: ../_admin_menu.php:118
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../_admin_menu.php:122
+msgid "Development"
+msgstr "От разработчика:"
+
+#: ../_admin_menu.php:123
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each "
+"hour spent on it was an hour that could've also gone towards income-"
+"generating work. If you find it useful, a small donation would be greatly "
+"appreciated :)"
+msgstr ""
+"Я много часов потратил на то, чтобы сделать этот плагин простым и надёжным. "
+"Но я разрешаю использовать свой плагин бесплатно. В то же время прошу "
+"помнить о том, что я мог бы потратить всё это время на дело, приносящее мне "
+"реальный доход. Если мой плагин оказался вам полезным, я готов с "
+"благодарностью принять небольшое пожертвование :)"
+
+#: ../_admin_menu.php:134
+msgid "Credits"
+msgstr "Благодарности"
+
+#: ../_admin_menu.php:135
+msgid ""
+"WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr ""
+"WP-ViperGB использует возможности и код других плагинов. К ним относятся:"
+
+#: ../_admin_menu.php:137
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This "
+"functionality is included by default, but must be explicitly enabled above.</"
+"i>"
+msgstr ""
+"Позволяет добавлять файлы изображений в гостевые записи. <i>Эта возможность "
+"уже встроена и включается в настройках.</i>"
+
+#: ../_admin_menu.php:138
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry.  "
+"<i>This functionality is included by default.</i>"
+msgstr ""
+"Показывает иконки типов браузера и операционной системы гостя в каждой его "
+"записи.  <i>Эта возможность уже встроена и включается в настройках.</i>"
+
+#: ../_admin_menu.php:139
+msgid ""
+"Show a national flag in each visitor's guestbook entry.  <i>This plugin must "
+"be installed separately.</i>"
+msgstr ""
+"Показывает иконку национального флага гостя в каждой его записи.  <i>Этот "
+"плагин должен быть установлен отдельно, а потом включён в настройках.</i>"
+
+#: ../_diggstyle.php:43 ../_diggstyle.php:45
+msgid "prev"
+msgstr "назад"
+
+#: ../_diggstyle.php:109 ../_diggstyle.php:111
+msgid "next"
+msgstr "вперёд"
+
+#: ../_output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Показать записи"
+
+#: ../_output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Оставить запись"
+
+#: ../_output_guestbook.php:101
+msgid "entries"
+msgstr "записей"
+
+#: ../_output_guestbook.php:111
+msgid "Page"
+msgstr "Страница"
+
+#: ../_output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Пока нет записей"
+
+#: ../_output_guestbook.php:175
+msgid "EntryNo"
+msgstr "Запись"
+
+#: ../_output_guestbook.php:184
+msgid "Date"
+msgstr "Дата"
+
+#: ../_output_guestbook.php:186
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:186
+msgid "m.d.Y"
+msgstr "d.m.Y"
+
+#: ../_output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Эта запись ожидает модерирования"
+
+#: ../_output_guestbook.php:221
+msgid "hidden"
+msgstr "скрыт"
+
+#: ../_output_guestbook.php:234 ../_output_guestbook.php:236
+msgid "Powered by"
+msgstr "Разработано"
+
+#: ../_output_guestbook.php:274
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook.<br /"
+">Please create a user account, or login to sign."
+msgstr ""
+"Извините, но только зарегистрированные посетители имеют доступ к гостевой "
+"книге.<br/>Пожалуйста зарегистрируйтесь или авторизуйтесь."
+
+#: ../_output_guestbook.php:280
+msgid "Name"
+msgstr "Имя"
+
+#: ../_output_guestbook.php:285 ../_output_guestbook.php:294
+msgid "(required)"
+msgstr "(обязательно)"
+
+#: ../_output_guestbook.php:289
+msgid "Email"
+msgstr "Email"
+
+#: ../_output_guestbook.php:298
+msgid "Homepage"
+msgstr "Сайт"
+
+#: ../_output_guestbook.php:303
+msgid "(optional)"
+msgstr "<br/>(не обязательно)"
+
+#: ../_output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr "*Если вы хотите изменить значения вышестоящих полей, сначала сделайте "
+
+#: ../_output_guestbook.php:320
+msgid "Logout"
+msgstr "Выход"
+
+#: ../_output_guestbook.php:325
+msgid "Text"
+msgstr "Текст"
+
+#: ../_output_guestbook.php:327
+msgid "Send"
+msgstr "Послать"
+
+#~ msgid "Add photo (max %dkb)"
+#~ msgstr "Добавить изображение (максимум %d кБ)"
+
+#~ msgid "Upload Files"
+#~ msgstr "Загрузить файлы"
+
+#~ msgid ""
+#~ "You can include images or files in your comment by selecting them below. "
+#~ "Once you select a file, it will be uploaded and a link to it added to "
+#~ "your comment. You can upload as many images or files as you like and they "
+#~ "will all be added to your comment."
+#~ msgstr ""
+#~ "Вы можете добавить изображения в ваш комментарий, выбрав их ниже. После "
+#~ "того как вы выберите файл, он будет загружен и ссылка на него добавится в "
+#~ "комментарий. Вы можете загрузить столько файлов, сколько вам надо, все "
+#~ "ссылки на них добавятся в комментарий."
+
+#~ msgid "Select File"
+#~ msgstr "Выбрать файл"

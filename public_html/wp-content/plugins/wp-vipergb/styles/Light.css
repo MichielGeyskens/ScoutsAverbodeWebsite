@@ -1,0 +1,35 @@
+/**********************************************************************/
+/* To make a new style, create a stylesheet and add it to this dir.   */
+/* Override any styles you wish from Default.css, which will always   */
+/* be included first.  Stylesheets will be automatically detected and */
+/* listed by the plugin's admin panel.                                */
+/**********************************************************************/
+
+.gbEntry{
+    color: #333333;
+    border:solid 2px #000066;
+}
+
+.gbEntryLeft{
+    background: rgb(128, 128, 250);
+    border:0;
+}
+
+.gbEntryTop, .gbEntryBottom{
+    background-color: rgb(176, 176, 176);
+}
+
+.gbEntryContent{
+    background: rgb(255, 255, 255) url(Light/gbback.jpg) repeat-y right;
+}
+
+#gbSignWrap{
+    color: #333333;
+    background:#7755bb;
+    border:2px solid #9977dd;
+}
+
+#gbSignWrap a:link, #gbSignWrap a:visited, .gbEntry a:link, .gbEntry a:visited{
+    color: #005FA9;
+    text-decoration: none;
+}

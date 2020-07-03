@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-09 15:36-0800\n"
+"PO-Revision-Date: 2016-01-09 15:36-0800\n"
+"Last-Translator: Justin Klein <jk@justin-klein.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:28
+msgid "Settings"
+msgstr ""
+
+#: ../_admin_menu.php:58
+msgid "Options saved."
+msgstr ""
+
+#: ../_admin_menu.php:62
+msgid ""
+"Notice: Comments were disabled for the Guestbook Page you selected.  They've "
+"now been automatically enabled, as required for your guestbook to function."
+msgstr ""
+
+#: ../_admin_menu.php:69
+msgid "WP-ViperGB Options"
+msgstr ""
+
+#: ../_admin_menu.php:71
+msgid "Manage Entries"
+msgstr ""
+
+#: ../_admin_menu.php:75
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr ""
+
+#: ../_admin_menu.php:82
+msgid "Main Settings"
+msgstr ""
+
+#: ../_admin_menu.php:84
+msgid "Guestbook Page"
+msgstr ""
+
+#: ../_admin_menu.php:95
+msgid "Guestbook Style"
+msgstr ""
+
+#: ../_admin_menu.php:109
+msgid "Extra Settings"
+msgstr ""
+
+#: ../_admin_menu.php:110
+msgid "Entries Per Page"
+msgstr ""
+
+#: ../_admin_menu.php:111
+msgid "Use Digg-style pagination"
+msgstr ""
+
+#: ../_admin_menu.php:111
+#, php-format
+msgid "Please enable %s when using this option."
+msgstr ""
+
+#: ../_admin_menu.php:112
+msgid "Reverse Order (list from oldest to newest)"
+msgstr ""
+
+#: ../_admin_menu.php:113
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr ""
+
+#: ../_admin_menu.php:114
+msgid "Show Browser & OS Icons"
+msgstr ""
+
+#: ../_admin_menu.php:115
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr ""
+
+#: ../_admin_menu.php:116
+#, php-format
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much "
+"appreciated)"
+msgstr ""
+
+#: ../_admin_menu.php:118
+msgid "Save"
+msgstr ""
+
+#: ../_admin_menu.php:122
+msgid "Development"
+msgstr ""
+
+#: ../_admin_menu.php:123
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each "
+"hour spent on it was an hour that could've also gone towards income-"
+"generating work. If you find it useful, a small donation would be greatly "
+"appreciated :)"
+msgstr ""
+
+#: ../_admin_menu.php:134
+msgid "Credits"
+msgstr ""
+
+#: ../_admin_menu.php:135
+msgid ""
+"WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr ""
+
+#: ../_admin_menu.php:137
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This "
+"functionality is included by default, but must be explicitly enabled above.</"
+"i>"
+msgstr ""
+
+#: ../_admin_menu.php:138
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry."
+msgstr ""
+
+#: ../_admin_menu.php:138
+msgid "This functionality is included by default."
+msgstr ""
+
+#: ../_admin_menu.php:139
+msgid "Show a national flag in each visitor's guestbook entry."
+msgstr ""
+
+#: ../_admin_menu.php:139
+msgid "This plugin must be installed separately."
+msgstr ""
+
+#: ../_diggstyle.php:43 ../_diggstyle.php:45
+msgid "prev"
+msgstr ""
+
+#: ../_diggstyle.php:109 ../_diggstyle.php:111
+msgid "next"
+msgstr ""
+
+#: ../_output_guestbook.php:86
+msgid "Show Guestbook"
+msgstr ""
+
+#: ../_output_guestbook.php:90
+msgid "Sign Guestbook"
+msgstr ""
+
+#: ../_output_guestbook.php:99
+msgid "entries"
+msgstr ""
+
+#: ../_output_guestbook.php:109
+msgid "Page"
+msgstr ""
+
+#: ../_output_guestbook.php:156
+msgid "No entries yet"
+msgstr ""
+
+#: ../_output_guestbook.php:173
+msgid "Entry#"
+msgstr ""
+
+#: ../_output_guestbook.php:182
+msgid "Date"
+msgstr ""
+
+#: ../_output_guestbook.php:184
+msgid "H:i"
+msgstr ""
+
+#: ../_output_guestbook.php:184
+msgid "m.d.Y"
+msgstr ""
+
+#: ../_output_guestbook.php:212
+msgid "This entry is awaiting moderation"
+msgstr ""
+
+#: ../_output_guestbook.php:219
+msgid "hidden"
+msgstr ""
+
+#: ../_output_guestbook.php:232 ../_output_guestbook.php:234
+msgid "Powered by"
+msgstr ""
+
+#: ../_output_guestbook.php:272
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook. Please "
+"create a user account, or login to sign."
+msgstr ""
+
+#: ../_output_guestbook.php:278
+msgid "Name"
+msgstr ""
+
+#: ../_output_guestbook.php:283 ../_output_guestbook.php:292
+msgid "(required)"
+msgstr ""
+
+#: ../_output_guestbook.php:287
+msgid "Email"
+msgstr ""
+
+#: ../_output_guestbook.php:296
+msgid "Homepage"
+msgstr ""
+
+#: ../_output_guestbook.php:301
+msgid "(optional)"
+msgstr ""
+
+#: ../_output_guestbook.php:318
+msgid "*If you'd like to customize these values, please "
+msgstr ""
+
+#: ../_output_guestbook.php:318
+msgid "Logout"
+msgstr ""
+
+#: ../_output_guestbook.php:323
+msgid "Text"
+msgstr ""
+
+#: ../_output_guestbook.php:325
+msgid "Send"
+msgstr ""

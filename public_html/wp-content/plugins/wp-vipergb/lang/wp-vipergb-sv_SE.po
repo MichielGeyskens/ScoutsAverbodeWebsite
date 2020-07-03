@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 20:30+0700\n"
+"PO-Revision-Date: 2012-01-28 14:32+0100\n"
+"Last-Translator: cjw <chhg@cjwhkjh.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:27
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../_admin_menu.php:57
+msgid "Options saved."
+msgstr "Inställningarna sparade"
+
+#: ../_admin_menu.php:61
+msgid "WP-ViperGB Options"
+msgstr "WP-ViperGB inställningar"
+
+#: ../_admin_menu.php:63
+msgid "Manage Entries"
+msgstr "Hantera inlägg"
+
+#: ../_admin_menu.php:66
+msgid "To add a Guestbook to your blog, simply create a new page, select it in the first combobox below, and click \"Save.\""
+msgstr "För att lägga till en Gästbok till din blogg, skapa en ny sida och välj den sedan i första kombinationsrutan nedan. Tryck sedan på  \"Spara.\""
+
+#: ../_admin_menu.php:69
+msgid "Main Settings"
+msgstr "Huvudinställningar"
+
+#: ../_admin_menu.php:71
+msgid "Guestbook Page"
+msgstr "Gästbokssida"
+
+#: ../_admin_menu.php:82
+msgid "Guestbook Style"
+msgstr "Gästboksstil"
+
+#: ../_admin_menu.php:96
+msgid "Extra Settings"
+msgstr "Extrainställningar"
+
+#: ../_admin_menu.php:97
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Omvänd ordning (lista inläggen från äldsta till nyaste)"
+
+#: ../_admin_menu.php:98
+msgid "Entries Per Page"
+msgstr "Inlägg per sida"
+
+#: ../_admin_menu.php:99
+msgid "Allow Image Uploads"
+msgstr "Tillåt att bilder laddas upp"
+
+#: ../_admin_menu.php:100
+msgid "Max Image Filesize (kb)"
+msgstr "Max bildstorlek (kb)"
+
+#: ../_admin_menu.php:101
+msgid "Show Browser &amp; OS Icons"
+msgstr "Visa Webbläsar- &amp; OS ikoner"
+
+#: ../_admin_menu.php:102
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Visa  Flaggikoner (Kräver %s)"
+
+#: ../_admin_menu.php:103
+#, php-format
+msgid "Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much appreciated)"
+msgstr "Inkludera en länk till <a href=\"%s\">plugin-hemsidan</a>  (Frivilligt men mycket uppskattat)"
+
+#: ../_admin_menu.php:105
+msgid "Save"
+msgstr "Spara"
+
+#: ../_admin_menu.php:109
+msgid "Development"
+msgstr "Utveckling"
+
+#: ../_admin_menu.php:110
+msgid "Many hours have gone into making this plugin as clean and easy to use as possible. Although I offer it to you freely, please keep in mind that each hour spent on it was an hour that could've also gone towards income-generating work. If you find it useful, a small donation would be greatly appreciated :)"
+msgstr "Mycket tid har lagts på att göra detta tillägg så enkelt och smidigt som möjligt  att använda. Även om det är gratis, så tänk på  att all den tid jag lagtsom på att utveckla detta tillägg kunde ha lagts på inkomstbringande arbete. Så om du tycker det är användbart så skulle en mindre donation vara mycket uppskattad :)"
+
+#: ../_admin_menu.php:121
+msgid "Credits"
+msgstr "Credits"
+
+#: ../_admin_menu.php:122
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB använder kod från flera andra tillägg. Dessa är:"
+
+#: ../_admin_menu.php:124
+msgid "Allow users to embed images in their guestbook entries. <i>This functionality is included by default, but must be explicitly enabled above.</i>"
+msgstr "Tillåter användare att infoga bilder i deras gästboks-inlägg. <i>Denna funktionalitet är inkluderad som standard  men måste aktiveras ovan .</i>"
+
+#: ../_admin_menu.php:125
+msgid "Show a browser and operating system icon in each visitor's guestbook entry.  <i>This functionality is included by default.</i>"
+msgstr "Visar en ikon för webbläsare och operativsystem i varje besökares inlägg. <i>Funktionaliteten är inkluderad som standard.</i>"
+
+#: ../_admin_menu.php:126
+msgid "Show a national flag in each visitor's guestbook entry.  <i>This plugin must be installed separately.</i>"
+msgstr "Visar en nationalitetsflagga i varje besökares inlägg. <i>Tillägget måste installeras separat.</i>"
+
+#: ../_output_guestbook.php:84
+msgid "Show Guestbook"
+msgstr "Visa Gästbok"
+
+#: ../_output_guestbook.php:88
+msgid "Sign Guestbook"
+msgstr "Skriv i Gästbok"
+
+#: ../_output_guestbook.php:97
+msgid "Page"
+msgstr "Sida"
+
+#: ../_output_guestbook.php:132
+msgid "No entries yet"
+msgstr "Inga inlägg ännu"
+
+#: ../_output_guestbook.php:149
+msgid "EntryNo"
+msgstr "Inlägg Nr"
+
+#: ../_output_guestbook.php:158
+msgid "Date"
+msgstr "Datum"
+
+#: ../_output_guestbook.php:160
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:160
+msgid "m.d.Y"
+msgstr "d.m.Y"
+
+#: ../_output_guestbook.php:188
+msgid "This entry is awaiting moderation"
+msgstr "Detta inlägg väntar på godkännande"
+
+#: ../_output_guestbook.php:195
+msgid "hidden"
+msgstr "Visas ej"
+
+#: ../_output_guestbook.php:250
+msgid "Name"
+msgstr "Namn"
+
+#: ../_output_guestbook.php:258
+msgid "Email"
+msgstr "E-mail"
+
+#: ../_output_guestbook.php:266
+msgid "Homepage"
+msgstr "Hemsida"
+
+#: ../_output_guestbook.php:270
+msgid "optional"
+msgstr "Valfritt"
+
+#: ../_output_guestbook.php:282
+msgid "*If you'd like to customize these values, please "
+msgstr "*Om du vill ändra dessa uppgifter v.v. "
+
+#: ../_output_guestbook.php:282
+msgid "Logout"
+msgstr "Logga ut"
+
+#: ../_output_guestbook.php:287
+msgid "Text"
+msgstr "Text"
+
+#: ../_output_guestbook.php:289
+msgid "Send"
+msgstr "Sänd"
+
+#: ../_output_guestbook.php:304
+#, php-format
+msgid "Add photo (max %dkb)"
+msgstr "Lägg till foto ( max % dkb )"
+
+#: ../easy-comment-uploads/main.php:86
+msgid "Upload Files"
+msgstr "Ladda upp filer"
+
+#: ../easy-comment-uploads/main.php:87
+msgid "You can include images or files in your comment by selecting them below. Once you select a file, it will be uploaded and a link to it added to your comment. You can upload as many images or files as you like and they will all be added to your comment."
+msgstr "Du kan inkludera bilder eller filer i dina inlägg genom att välja dessa nedan. När du valt en fil så laddas den upp och en länk till den läggs till i ditt inlägg. Du kan ladda upp så många bilder eller filer som du önskar och alla läggs då till i ditt inlägg."
+
+#: ../easy-comment-uploads/main.php:88
+msgid "Select File"
+msgstr "Välj fil"
+

@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 20:30+0700\n"
+"PO-Revision-Date: 2014-12-13 00:14+0100\n"
+"Last-Translator: Hermod Sviingerud <hermod@svingerud.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: no_NO\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:29
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../_admin_menu.php:63
+msgid "Options saved."
+msgstr "Alternativene lagret"
+
+#: ../_admin_menu.php:69
+msgid "WP-ViperGB Options"
+msgstr "WP-ViperGB Alternativer"
+
+#: ../_admin_menu.php:71
+msgid "Manage Entries"
+msgstr "Håndtere Innlegg"
+
+#: ../_admin_menu.php:75
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr ""
+"For å legge til en gjestebok til din blogg, bare lag en ny side, velg den "
+"siden i det første boksen under og trykk lagre."
+
+#: ../_admin_menu.php:82
+msgid "Main Settings"
+msgstr "Hoved innstillinger"
+
+#: ../_admin_menu.php:84
+msgid "Guestbook Page"
+msgstr "Gjestebok Side"
+
+#: ../_admin_menu.php:95
+msgid "Guestbook Style"
+msgstr "Gjestebok stil"
+
+#: ../_admin_menu.php:109
+msgid "Extra Settings"
+msgstr "Ekstra Innstillinger"
+
+#: ../_admin_menu.php:110
+msgid "Entries Per Page"
+msgstr "Innlegg pr. side"
+
+#: ../_admin_menu.php:111
+msgid "Use Digg-style pagination"
+msgstr "Bruk Digg-style sidetall"
+
+#: ../_admin_menu.php:112
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Baklengs (vises fra den eldste til nyeste)"
+
+#: ../_admin_menu.php:113
+msgid "Allow Image Uploads"
+msgstr "Tillatt bilde opplasting"
+
+#: ../_admin_menu.php:114
+msgid "Max Image Filesize (kb)"
+msgstr "Maks bilde filstørrelse (kb)"
+
+#: ../_admin_menu.php:115
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr "Ikke tillatt anonyme signeringer (kun registrerte brukere)"
+
+#: ../_admin_menu.php:116
+msgid "Show Browser &amp; OS Icons"
+msgstr "Vis webleser &amp; OS Ikoner"
+
+#: ../_admin_menu.php:117
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Vis Flagg Ikoner (Krever %s)"
+
+#: ../_admin_menu.php:118
+#, php-format
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much "
+"appreciated)"
+msgstr ""
+"Inkluder en lenke til <a href=\"%s\">innstikkets hjemmeside</a> (frivillig men "
+"veldig verdsatt )"
+
+#: ../_admin_menu.php:120
+msgid "Save"
+msgstr "Lagre"
+
+#: ../_admin_menu.php:124
+msgid "Development"
+msgstr "Utvikling"
+
+#: ../_admin_menu.php:125
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each hour "
+"spent on it was an hour that could've also gone towards income-generating work. "
+"If you find it useful, a small donation would be greatly appreciated :)"
+msgstr ""
+"Mange timer har gått med til å gjøre dette innstikket så ren og "
+"brukervennlig som mulig. Selv om jeg tilbyr denne fritt, må du huske på at hver "
+"time brukt på denne var en time som kunne gått til inntektsgivende arbeid. Hvis "
+"du synes det er nyttig, ville en liten donasjon bli meget verdsatt  :)"
+
+#: ../_admin_menu.php:136
+msgid "Credits"
+msgstr "Medvirkende "
+
+#: ../_admin_menu.php:137
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB tar nytte av kode fra forskjellige andre innstikk. Disse er:"
+
+#: ../_admin_menu.php:139
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This functionality "
+"is included by default, but must be explicitly enabled above.</i>"
+msgstr ""
+"Tillatt brukere å inkludere bilder i dere gjestebok innlegg. <i>Denne "
+"funksjonaliteten er inkludert som standard men må aktiveres over.</i>"
+
+#: ../_admin_menu.php:140
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry.  "
+"<i>This functionality is included by default.</i>"
+msgstr ""
+"Vis en webleser og operativsystem ikon på hver av gjestenes gjestebok innlegg. "
+"<i>Denne funksjonaliteten er inkludert som standard.</i>"
+
+#: ../_admin_menu.php:141
+msgid ""
+"Show a national flag in each visitor's guestbook entry.  <i>This plugin must be "
+"installed separately.</i>"
+msgstr ""
+"Vis et nasjonal flagg i hver av gjestenes innlegg. <i>Dette innstikket må "
+"installeres separat.</i>"
+
+#: ../_diggstyle.php:43 ../_diggstyle.php:45
+msgid "prev"
+msgstr "forrige"
+
+#: ../_diggstyle.php:109 ../_diggstyle.php:111
+msgid "next"
+msgstr "neste"
+
+#: ../_output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Vis Gjestebok"
+
+#: ../_output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Signer Gjesteboken"
+
+#: ../_output_guestbook.php:101
+msgid "entries"
+msgstr "Innlegg"
+
+#: ../_output_guestbook.php:111
+msgid "Page"
+msgstr "Side"
+
+#: ../_output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Ingen innlegg ennå"
+
+#: ../_output_guestbook.php:175
+msgid "EntryNo"
+msgstr "Innleggsnr"
+
+#: ../_output_guestbook.php:184
+msgid "Date"
+msgstr "Dato"
+
+#: ../_output_guestbook.php:186
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:186
+msgid "m.d.Y"
+msgstr "m.d.Y"
+
+#: ../_output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Dette innlegget avventer en godkjennelse "
+
+#: ../_output_guestbook.php:221
+msgid "hidden"
+msgstr "Gjemt"
+
+#: ../_output_guestbook.php:234 ../_output_guestbook.php:236
+msgid "Powered by"
+msgstr "Drevet av"
+
+#: ../_output_guestbook.php:274
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook.<br /"
+">Please create a user account, or login to sign."
+msgstr ""
+"Beklager men bare registrerte brukere kan signere gjesteboken. <br />Vennligst "
+"registrer deg eller logg inn for å signere."
+
+#: ../_output_guestbook.php:280
+msgid "Name"
+msgstr "Navn"
+
+#: ../_output_guestbook.php:285 ../_output_guestbook.php:294
+msgid "(required)"
+msgstr "(påkrevd)"
+
+#: ../_output_guestbook.php:289
+msgid "Email"
+msgstr "E-post"
+
+#: ../_output_guestbook.php:298
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+#: ../_output_guestbook.php:303
+msgid "(optional)"
+msgstr "(frivilig)"
+
+#: ../_output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr "*Hvis du vil tilpasse disse verdiene, vennligst "
+
+#: ../_output_guestbook.php:320
+msgid "Logout"
+msgstr "Logg Ut"
+
+#: ../_output_guestbook.php:325
+msgid "Text"
+msgstr "Tekst"
+
+#: ../_output_guestbook.php:327
+msgid "Send"
+msgstr "Sende"

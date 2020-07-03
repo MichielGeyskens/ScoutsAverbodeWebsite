@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-20 13:51+0300\n"
+"PO-Revision-Date: 2015-03-20 13:51+0300\n"
+"Last-Translator: عبدالله البدراني - Abdullah Albadrani <q89000@hotmail.com>\n"
+"Language-Team: Abdullah Albadrani <q89000@hotmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:28
+msgid "Settings"
+msgstr "إعدادات"
+
+#: ../_admin_menu.php:58
+msgid "Options saved."
+msgstr "حفظ الخيارات"
+
+#: ../_admin_menu.php:64
+msgid "WP-ViperGB Options"
+msgstr "خيارات WP-ViperGB"
+
+#: ../_admin_menu.php:66
+msgid "Manage Entries"
+msgstr "إدارة المدخلات"
+
+#: ../_admin_menu.php:70
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr ""
+"لإضافة سجل زوار لمدونتك، قم بإنشاء صفحة جديدة, اختر أولاً من القائمة المنسدلة "
+"أدناه ، ثم انقر فوق \"حفظ\"."
+
+#: ../_admin_menu.php:77
+msgid "Main Settings"
+msgstr "الإعدادات الرئيسية"
+
+#: ../_admin_menu.php:79
+msgid "Guestbook Page"
+msgstr "صفحة سجل الزوار"
+
+#: ../_admin_menu.php:90
+msgid "Guestbook Style"
+msgstr "قالب سجل الزوار"
+
+#: ../_admin_menu.php:104
+msgid "Extra Settings"
+msgstr "إعدادات إضافية"
+
+#: ../_admin_menu.php:105
+msgid "Entries Per Page"
+msgstr "مدخلات لكل صفحة"
+
+#: ../_admin_menu.php:106
+msgid "Use Digg-style pagination"
+msgstr "استخدام ترقيم الصفحات على غرار Digg"
+
+#: ../_admin_menu.php:106
+#, php-format
+msgid "Please enable %s when using this option."
+msgstr "الرجاء تمكين %s عند استخدام هذا الخيار."
+
+#: ../_admin_menu.php:107
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "عكس الترتيب (قائمة من الأقدم إلى الأحدث)"
+
+#: ../_admin_menu.php:108
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr ""
+"عدم السماح بالتواقيع المجهولة (يعرف أيضا باسم السماح فقط للمستخدمين المسجلين)"
+
+#: ../_admin_menu.php:109
+msgid "Show Browser &amp; OS Icons"
+msgstr "إظهار أيقونات المتصفح ونظام التشغيل"
+
+#: ../_admin_menu.php:110
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "إظهار رموز العلم (يتطلب %s)"
+
+#: ../_admin_menu.php:111
+#, php-format
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much "
+"appreciated)"
+msgstr ""
+"تضمين ارتباط إلى <a href=\"%s\">الصفحة الرئيسية للبرنامج المساعد</a> "
+"(اختياري، ولكن تقدير كبير)"
+
+#: ../_admin_menu.php:113
+msgid "Save"
+msgstr "حفظ"
+
+#: ../_admin_menu.php:117
+msgid "Development"
+msgstr "تطوير"
+
+#: ../_admin_menu.php:118
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each "
+"hour spent on it was an hour that could've also gone towards income-"
+"generating work. If you find it useful, a small donation would be greatly "
+"appreciated :)"
+msgstr ""
+"ساعات كثيرة ذهبت إلى جعل هذا البرنامج المساعد نظيفة وسهلة الاستعمال قدر "
+"الإمكان. على الرغم من أن أقدم لكم بحرية، نضع في اعتبارنا أن كل ساعة تنفق على "
+"أنه كان يرجى ساعة قد ذهبوا أيضا نحو المدرة للدخل العمل. إذا كنت تجد أنه من "
+"المفيد، هبة صغيرة سوف يكون موضع تقدير كبير:)"
+
+#: ../_admin_menu.php:129
+msgid "Credits"
+msgstr "اعتمادات"
+
+#: ../_admin_menu.php:130
+msgid ""
+"WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr ""
+"WP-ViperGB --يستفيد من التعليمات البرمجية من العديد من الإضافات الأخرى.  وهذه "
+"هي:"
+
+#: ../_admin_menu.php:132
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This functionality "
+"is included by default, but must be explicitly enabled above.</i>"
+msgstr ""
+"السماح للمستخدمين بتضمين الصور في إدخالات سجل الزوار . <i>هذه الوظيفة تم "
+"تضمينها بشكل افتراضي، ولكن يجب تمكينها .</i>"
+
+#: ../_admin_menu.php:133
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry.  "
+"<i>This functionality is included by default.</i>"
+msgstr ""
+"إظهار رمز المستعرض ونظام التشغيل عند كل زيارة لسجل الزوار.  <i>هذه الوظيفة "
+"يتم تضمينها بشكل افتراضي.</i>"
+
+#: ../_admin_menu.php:134
+msgid ""
+"Show a national flag in each visitor's guestbook entry.  <i>This plugin must "
+"be installed separately.</i>"
+msgstr ""
+"إظهار علم دولة الزائر  في كل زيارة للسجل.  <i>هذا البرنامج المساعد يجب أن "
+"يكون مثبتاً بشكل منفصل.</i>"
+
+#: ../_diggstyle.php:43 ../_diggstyle.php:45
+msgid "prev"
+msgstr "السابق"
+
+#: ../_diggstyle.php:109 ../_diggstyle.php:111
+msgid "next"
+msgstr "التالي"
+
+#: ../_output_guestbook.php:86
+msgid "Show Guestbook"
+msgstr "إظهار سجل الزوار"
+
+#: ../_output_guestbook.php:90
+msgid "Sign Guestbook"
+msgstr "توقيع سجل الزوار"
+
+#: ../_output_guestbook.php:99
+msgid "entries"
+msgstr "مدخلات"
+
+#: ../_output_guestbook.php:109
+msgid "Page"
+msgstr "صفحة"
+
+#: ../_output_guestbook.php:156
+msgid "No entries yet"
+msgstr "لا توجد إدخالات بعد"
+
+#: ../_output_guestbook.php:173
+msgid "EntryNo"
+msgstr "ممنوع الدخول"
+
+#: ../_output_guestbook.php:182
+msgid "Date"
+msgstr "التاريخ"
+
+#: ../_output_guestbook.php:184
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:184
+msgid "m.d.Y"
+msgstr "m.d.Y"
+
+#: ../_output_guestbook.php:212
+msgid "This entry is awaiting moderation"
+msgstr "التعليق بانتظار المراجعة"
+
+#: ../_output_guestbook.php:219
+msgid "hidden"
+msgstr "مخفي"
+
+#: ../_output_guestbook.php:232 ../_output_guestbook.php:234
+msgid "Powered by"
+msgstr "مدعوم من قبل"
+
+#: ../_output_guestbook.php:272
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook.<br /"
+">Please create a user account, or login to sign."
+msgstr ""
+"عذراً, فقط الأعضاء يسمح لهم باستخدام سجل الزوار  <br /> فضلا,قم بإنشاء حساب "
+"مستخدم جديد ، أو تسجيل الدخول لحسابك لدينا."
+
+#: ../_output_guestbook.php:278
+msgid "Name"
+msgstr "الاسم"
+
+#: ../_output_guestbook.php:283 ../_output_guestbook.php:292
+msgid "(required)"
+msgstr "(مطلوب)"
+
+#: ../_output_guestbook.php:287
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../_output_guestbook.php:296
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: ../_output_guestbook.php:301
+msgid "(optional)"
+msgstr "(اختياري)"
+
+#: ../_output_guestbook.php:318
+msgid "*If you'd like to customize these values, please "
+msgstr "* إذا كنت ترغب في تخصيص هذه القيم، يرجى"
+
+#: ../_output_guestbook.php:318
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: ../_output_guestbook.php:323
+msgid "Text"
+msgstr "النص"
+
+#: ../_output_guestbook.php:325
+msgid "Send"
+msgstr "إرسال"
+
+#~ msgid "Allow Image Uploads"
+#~ msgstr "السماح بتحميل الصور"
+
+#~ msgid "Max Image Filesize (kb)"
+#~ msgstr "أقصى حجم لملف صورة (kb)"

@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-25 11:54-0800\n"
+"PO-Revision-Date: 2012-12-26 17:21+0100\n"
+"Last-Translator: Justin Klein <justin@justin-klein.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:29
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../_admin_menu.php:63
+msgid "Options saved."
+msgstr "Beállítások elmentve"
+
+#: ../_admin_menu.php:69
+msgid "WP-ViperGB Options"
+msgstr "WP-ViperGB beállítások"
+
+#: ../_admin_menu.php:71
+msgid "Manage Entries"
+msgstr "Bejegyzések kezelése"
+
+#: ../_admin_menu.php:75
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr ""
+"Vendégkönyv létrehozásához egyszerűen hozz létre egy új oldalt, azután "
+"válaszd ki az első lenyíló menüből, majd kattints a \"Mentés\" gombra"
+
+#: ../_admin_menu.php:82
+msgid "Main Settings"
+msgstr "Fő beállítások"
+
+#: ../_admin_menu.php:84
+msgid "Guestbook Page"
+msgstr "Vendégkönyv oldal"
+
+#: ../_admin_menu.php:95
+msgid "Guestbook Style"
+msgstr "Vendégkönyv stílus"
+
+#: ../_admin_menu.php:109
+msgid "Extra Settings"
+msgstr "Extra beállítások"
+
+#: ../_admin_menu.php:110
+msgid "Entries Per Page"
+msgstr "Bejegyzés oldalanként"
+
+#: ../_admin_menu.php:111
+msgid "Use Digg-style pagination"
+msgstr "Digg-stílus használata"
+
+#: ../_admin_menu.php:112
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Lista fordított sorrendben"
+
+#: ../_admin_menu.php:113
+msgid "Allow Image Uploads"
+msgstr "Képfeltöltés engedélyezése"
+
+#: ../_admin_menu.php:114
+msgid "Max Image Filesize (kb)"
+msgstr "Maximális képméret (kb)"
+
+#: ../_admin_menu.php:115
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr "Csak regisztrált felhasználók írhatnak a vendégkönyvbe"
+
+#: ../_admin_menu.php:116
+msgid "Show Browser &amp; OS Icons"
+msgstr "Böngésző és oprendszer ikonok mutatása"
+
+#: ../_admin_menu.php:117
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Zászló ikon mutatása (szükséges %s)"
+
+#: ../_admin_menu.php:118
+#, php-format
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much "
+"appreciated)"
+msgstr ""
+"Csatol egy linket a <a href=\"%s\">plugin honlapja</a> (szabadon "
+"választható, de nagyra értékelt)"
+
+#: ../_admin_menu.php:120
+msgid "Save"
+msgstr "Mentés"
+
+#: ../_admin_menu.php:124
+msgid "Development"
+msgstr "Fejlesztő"
+
+#: ../_admin_menu.php:125
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each "
+"hour spent on it was an hour that could've also gone towards income-"
+"generating work. If you find it useful, a small donation would be greatly "
+"appreciated :)"
+msgstr ""
+"Sok idő lett arra szánva, hogy ennek a pluginnak a használata minél könnyebb "
+"és egyszerűbb legyen. Noha ingyen ajánlom, szeretném ha észben tartaná, hogy "
+"minden órát amit rászántam, fordíthattam volna bevételt hozó munkára. Ha "
+"hasznosnak találja, egy kisebb összegért nagyon hálás lennék :)"
+
+#: ../_admin_menu.php:136
+msgid "Credits"
+msgstr "Credits"
+
+#: ../_admin_menu.php:137
+msgid ""
+"WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr ""
+"A  WP-ViperGB több különböző plugin kódját hasznosítja. Ezek a következők:"
+
+#: ../_admin_menu.php:139
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This "
+"functionality is included by default, but must be explicitly enabled above.</"
+"i>"
+msgstr ""
+"Engedélyezni, hogy felhasználók képeket rakhassanak a vendégkönyv "
+"bejegyzéseikbe. <i>Ez a lehetőség alapból megvan, de külön engedélyezni kell "
+"a használatát.</i> "
+
+#: ../_admin_menu.php:140
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry.  "
+"<i>This functionality is included by default.</i>"
+msgstr ""
+"Minden bejegyzést tett látogató böngésző és oprendszer ikonját mutatja. "
+"<i>Alapértelmezett</i>"
+
+#: ../_admin_menu.php:141
+msgid ""
+"Show a national flag in each visitor's guestbook entry.  <i>This plugin must "
+"be installed separately.</i>"
+msgstr ""
+"A bejegyzést tett látogatók nemzeti zászlóját mutatja.  <i>Ezt a plugint "
+"külön kell telepíteni</i>"
+
+#: ../_diggstyle.php:43 ../_diggstyle.php:45
+msgid "prev"
+msgstr "előző"
+
+#: ../_diggstyle.php:109 ../_diggstyle.php:111
+msgid "next"
+msgstr "következő"
+
+#: ../_output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Vendégkönyv olvasása"
+
+#: ../_output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Beírás a vendégkönyvbe"
+
+#: ../_output_guestbook.php:101
+msgid "entries"
+msgstr "bejegyzés"
+
+#: ../_output_guestbook.php:111
+msgid "Page"
+msgstr "oldal"
+
+#: ../_output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Nincs még bejegyzés"
+
+#: ../_output_guestbook.php:175
+msgid "EntryNo"
+msgstr "Sorszám:"
+
+#: ../_output_guestbook.php:184
+msgid "Date"
+msgstr "Dátum"
+
+#: ../_output_guestbook.php:186
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:186
+msgid "m.d.Y"
+msgstr "Y.m.d"
+
+#: ../_output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Ez a bejegyzés moderálásra vár"
+
+#: ../_output_guestbook.php:221
+msgid "hidden"
+msgstr "rejtve"
+
+#: ../_output_guestbook.php:234 ../_output_guestbook.php:236
+msgid "Powered by"
+msgstr "Powered by"
+
+#: ../_output_guestbook.php:274
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook.<br /"
+">Please create a user account, or login to sign."
+msgstr ""
+"Sajnálom, csak regisztrált felhasználó írhat a vendégkönyvbe. Lépj be, vagy "
+"regisztrálj!"
+
+#: ../_output_guestbook.php:280
+msgid "Name"
+msgstr "Név"
+
+#: ../_output_guestbook.php:285 ../_output_guestbook.php:294
+msgid "(required)"
+msgstr "kötelező"
+
+#: ../_output_guestbook.php:289
+msgid "Email"
+msgstr "E-mail"
+
+#: ../_output_guestbook.php:298
+msgid "Homepage"
+msgstr "Honlap"
+
+#: ../_output_guestbook.php:303
+msgid "(optional)"
+msgstr "(választható)"
+
+#: ../_output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr "*értékek változtatásához kérlek "
+
+#: ../_output_guestbook.php:320
+msgid "Logout"
+msgstr "Kilépés"
+
+#: ../_output_guestbook.php:325
+msgid "Text"
+msgstr "szöveg"
+
+#: ../_output_guestbook.php:327
+msgid "Send"
+msgstr "Küldés"

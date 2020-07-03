@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB v1.1.24\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-12-08 18:22+0000\n"
+"Last-Translator: katelarsen <kla@min-mail.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: _admin_menu.php:27
+#@ wpvipergb
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: _admin_menu.php:58
+#@ wpvipergb
+msgid "Options saved."
+msgstr "Indstillinger gemt"
+
+#: _admin_menu.php:64
+#@ wpvipergb
+msgid "WP-ViperGB Options"
+msgstr "WP-ViperGB Indstillinger"
+
+#: _admin_menu.php:66
+#@ wpvipergb
+msgid "Manage Entries"
+msgstr "Håndter gæstebogs indlæg"
+
+#: _admin_menu.php:70
+#@ wpvipergb
+msgid "To add a Guestbook to your blog, simply create a new page, select it in the first combobox below, and click \"Save.\""
+msgstr "For at tilføje en gæstebog til din blog, skal du oprette en side, og derefter vælge denne side i den første comboboks herunder, og klikke på \"Gem.\""
+
+#: _admin_menu.php:77
+#@ wpvipergb
+msgid "Main Settings"
+msgstr "Generelle indstillinger"
+
+#: _admin_menu.php:79
+#@ wpvipergb
+msgid "Guestbook Page"
+msgstr "Gæstebogs Side"
+
+#: _admin_menu.php:90
+#@ wpvipergb
+msgid "Guestbook Style"
+msgstr "Gæstebogs Stil"
+
+#: _admin_menu.php:104
+#@ wpvipergb
+msgid "Extra Settings"
+msgstr "Ekstra indstillinger"
+
+#: _admin_menu.php:105
+#@ wpvipergb
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Modsat rækkefølge (listet fra ældst til nyeste)"
+
+#: _admin_menu.php:106
+#@ wpvipergb
+msgid "Entries Per Page"
+msgstr "Indlæg pr side"
+
+#: _admin_menu.php:107
+#@ wpvipergb
+msgid "Allow Image Uploads"
+msgstr "Tillad billede uploads"
+
+#: _admin_menu.php:108
+#@ wpvipergb
+msgid "Max Image Filesize (kb)"
+msgstr "Maximal billede fil størrelse (kb)"
+
+#: _admin_menu.php:109
+#@ wpvipergb
+msgid "Show Browser &amp; OS Icons"
+msgstr "Vis browser &amp; OS ikoner"
+
+#: _admin_menu.php:110
+#, php-format
+#@ wpvipergb
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Vis flag ikoner (kræver %s)"
+
+#: _admin_menu.php:111
+#, php-format
+#@ wpvipergb
+msgid "Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much appreciated)"
+msgstr "Inkluder et link til <a href=\"%s\">plugin hjemmesiden</a> (frivilligt, men påskønnet)"
+
+#: _admin_menu.php:113
+#@ wpvipergb
+msgid "Save"
+msgstr "Gem"
+
+#: _admin_menu.php:117
+#@ wpvipergb
+msgid "Development"
+msgstr "Udvikling"
+
+#: _admin_menu.php:118
+#@ wpvipergb
+msgid "Many hours have gone into making this plugin as clean and easy to use as possible. Although I offer it to you freely, please keep in mind that each hour spent on it was an hour that could've also gone towards income-generating work. If you find it useful, a small donation would be greatly appreciated :)"
+msgstr "Mange timer er gået med at gøre denne plugin så ren og enkel at bruge. Og selv om jeg tilbyder den gratis, så husk venligst at hver time der gik med udviklingen af denne plugin, også kunne have været brugt på at tjene penge. Hvis du syntes den er brugbar så vil en lille donation blive meget påskønnet."
+
+#: _admin_menu.php:129
+#@ wpvipergb
+msgid "Credits"
+msgstr "Krediteringer"
+
+#: _admin_menu.php:130
+#@ wpvipergb
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB bruger kildekode fra adskillige andre plugins. Disse er:"
+
+#: _admin_menu.php:132
+#@ wpvipergb
+msgid "Allow users to embed images in their guestbook entries. <i>This functionality is included by default, but must be explicitly enabled above.</i>"
+msgstr "Tillad brugere at indsætte billedfiler i deres gæstebogs indlæg. <i> Denne funktionalitet er inkluderet som standard, men skal særskilt slås til.</i>"
+
+#: _admin_menu.php:133
+#@ wpvipergb
+msgid "Show a browser and operating system icon in each visitor's guestbook entry.  <i>This functionality is included by default.</i>"
+msgstr "Vis en browser og operativ system ikon i hver gæsts gæstebogs indlæg. <i> Denne funktionalitet er inkluderet som standard.</i>"
+
+#: _admin_menu.php:134
+#@ wpvipergb
+msgid "Show a national flag in each visitor's guestbook entry.  <i>This plugin must be installed separately.</i>"
+msgstr "Vis nationalitets flag i hver gæsts gæstebogs indlæg. <i> Denne plugin skal installeres separat.</i>"
+
+#: _output_guestbook.php:84
+#@ wpvipergb
+msgid "Show Guestbook"
+msgstr "Vis Gæstebog"
+
+#: _output_guestbook.php:88
+#@ wpvipergb
+msgid "Sign Guestbook"
+msgstr "Skriv i Gæstebog"
+
+#: _output_guestbook.php:97
+#@ wpvipergb
+msgid "Page"
+msgstr "Side"
+
+#: _output_guestbook.php:132
+#@ wpvipergb
+msgid "No entries yet"
+msgstr "Ingen indlæg endnu"
+
+#: _output_guestbook.php:149
+#@ wpvipergb
+msgid "EntryNo"
+msgstr "Indlæg nr:"
+
+#: _output_guestbook.php:158
+#@ wpvipergb
+msgid "Date"
+msgstr "Dato"
+
+#: _output_guestbook.php:160
+#@ wpvipergb
+msgid "H:i"
+msgstr "H:i"
+
+#: _output_guestbook.php:160
+#@ wpvipergb
+msgid "m.d.Y"
+msgstr "m.d.Y"
+
+#: _output_guestbook.php:188
+#@ wpvipergb
+msgid "This entry is awaiting moderation"
+msgstr "Dette indlæg afventer godkendelse"
+
+#: _output_guestbook.php:195
+#@ wpvipergb
+msgid "hidden"
+msgstr "gemt"
+
+#: _output_guestbook.php:208
+#: _output_guestbook.php:210
+#@ wpvipergb
+msgid "Powered by"
+msgstr "Leveret af"
+
+#: _output_guestbook.php:250
+#@ wpvipergb
+msgid "Name"
+msgstr "Navn"
+
+#: _output_guestbook.php:258
+#@ wpvipergb
+msgid "Email"
+msgstr "E-mail"
+
+#: _output_guestbook.php:266
+#@ wpvipergb
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+#: _output_guestbook.php:270
+#@ wpvipergb
+msgid "optional"
+msgstr "Ekstra"
+
+#: _output_guestbook.php:283
+#@ wpvipergb
+msgid "*If you'd like to customize these values, please "
+msgstr "*Hvis du vil redigere disse værdier, venligst"
+
+#: _output_guestbook.php:283
+#@ wpvipergb
+msgid "Logout"
+msgstr "Log Ud"
+
+#: _output_guestbook.php:288
+#@ wpvipergb
+msgid "Text"
+msgstr "Tekst"
+
+#: _output_guestbook.php:290
+#@ wpvipergb
+msgid "Send"
+msgstr "Send"
+
+#: _output_guestbook.php:305
+#, php-format
+#@ wpvipergb
+msgid "Add photo (max %dkb)"
+msgstr "Tilføj foto (max. %kb)"
+
+#: easy-comment-uploads/main.php:84
+#@ easy-comment-uploads
+msgid "Upload Files"
+msgstr "Upload filer"
+
+#: easy-comment-uploads/main.php:85
+#@ easy-comment-uploads
+msgid "You can include images or files in your comment by selecting them below. Once you select a file, it will be uploaded and a link to it added to your comment. You can upload as many images or files as you like and they will all be added to your comment."
+msgstr "Du kan inkludere billeder eller filer i dine indlæg ved at vælge dem herunder. Når du har valgt en fil, vil den blive uploaded og et link til den sat ind i indlægget. Du kan uploade så mange billeder eller filer som du vil og de vil alle blive tilføjet til dit gæstebogs indlæg."
+
+#: easy-comment-uploads/main.php:86
+#@ easy-comment-uploads
+msgid "Select File"
+msgstr "Vælg fil"
+

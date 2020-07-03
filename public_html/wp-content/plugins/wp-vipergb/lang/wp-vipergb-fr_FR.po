@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpvipergb-fr_FR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 20:30+0700\n"
+"PO-Revision-Date: 2011-04-20 10:48+0100\n"
+"Last-Translator: dreamakers <webmaster@dreamakers.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_admin_menu.php:27
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../_admin_menu.php:57
+msgid "Options saved."
+msgstr "Options enregistrées."
+
+#: ../_admin_menu.php:61
+msgid "WP-ViperGB Options"
+msgstr "Options de WP-ViperGB"
+
+#: ../_admin_menu.php:63
+msgid "Manage Entries"
+msgstr "Gérer les commentaires"
+
+#: ../_admin_menu.php:66
+msgid "To add a Guestbook to your blog, simply create a new page, select it in the first combobox below, and click \"Save.\""
+msgstr "Pour ajouter un Livre d'or sur votre blog, créez simplement une page, sélectionnez-là dans la liste déroulante en-dessous et cliquez sur \"Enregistrer\"."
+
+#: ../_admin_menu.php:69
+msgid "Main Settings"
+msgstr "Paramètres principaux"
+
+#: ../_admin_menu.php:71
+msgid "Guestbook Page"
+msgstr "Page du Livre d'or"
+
+#: ../_admin_menu.php:82
+msgid "Guestbook Style"
+msgstr "Style du Livre d'or"
+
+#: ../_admin_menu.php:96
+msgid "Extra Settings"
+msgstr "Paramètres supplémentaires"
+
+#: ../_admin_menu.php:97
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Inverser l'ordre (du plus vieux au plus récent)"
+
+#: ../_admin_menu.php:98
+msgid "Entries Per Page"
+msgstr "commentaires par page"
+
+#: ../_admin_menu.php:99
+msgid "Allow Image Uploads"
+msgstr "Permettre l'upload d'image"
+
+#: ../_admin_menu.php:100
+msgid "Max Image Filesize (kb)"
+msgstr "Kb par image maximum"
+
+#: ../_admin_menu.php:101
+msgid "Show Browser &amp; OS Icons"
+msgstr "Afficher les icônes de navigateur &amp; du système d'exploitation"
+
+#: ../_admin_menu.php:102
+#, php-format
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Afficher les icônes drapeaux (Nécessite %s)"
+
+#: ../_admin_menu.php:103
+#, php-format
+msgid "Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much appreciated)"
+msgstr "Inclure un lien vers <a href=\"%s\">la page du plugin</a> (facultatif mais très apprécié)"
+
+#: ../_admin_menu.php:105
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ../_admin_menu.php:109
+msgid "Development"
+msgstr "Développement"
+
+#: ../_admin_menu.php:110
+msgid "Many hours have gone into making this plugin as clean and easy to use as possible. Although I offer it to you freely, please keep in mind that each hour spent on it was an hour that could've also gone towards income-generating work. If you find it useful, a small donation would be greatly appreciated :)"
+msgstr "Beaucoup d'heures ont été utile pour faire ce plugin aussi propre et facile que possible. Bien que je vous l'offre gratuitement, garder à l'esprit que chaque heure passée dessus aurait pu être utilisé à des fin lucrative. Si vous trouvez ce travail utile, une petite donation serait grandement appréciée. :)"
+
+#: ../_admin_menu.php:121
+msgid "Credits"
+msgstr "Crédits"
+
+#: ../_admin_menu.php:122
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB utilise du code de plusieurs autres plugins.  Ceci sont :"
+
+#: ../_admin_menu.php:124
+msgid "Allow users to embed images in their guestbook entries. <i>This functionality is included by default, but must be explicitly enabled above.</i>"
+msgstr "Permet aux utilisateurs de mettre leur images sur leurs commentaires. <i>Cette fonctionnalité est incluse par défaut mais doit être activée ci-dessus.</i>"
+
+#: ../_admin_menu.php:125
+msgid "Show a browser and operating system icon in each visitor's guestbook entry.  <i>This functionality is included by default.</i>"
+msgstr "Affiche un icône du navigateur et du système d'exploitation sur chaque commentaire.  <i>Cette fonctionnalité est incluse par défaut.</i>"
+
+#: ../_admin_menu.php:126
+msgid "Show a national flag in each visitor's guestbook entry.  <i>This plugin must be installed separately.</i>"
+msgstr "Affiche un drapeau national sur chaque commentaire.  <i>Ce plugin doit être installé séparément.</i>"
+
+#: ../_output_guestbook.php:84
+msgid "Show Guestbook"
+msgstr "Voir le Livre d'or"
+
+#: ../_output_guestbook.php:88
+msgid "Sign Guestbook"
+msgstr "Signer le Livre d'or"
+
+#: ../_output_guestbook.php:97
+msgid "Page"
+msgstr "Page"
+
+#: ../_output_guestbook.php:132
+msgid "No entries yet"
+msgstr "Pas encore de commentaire"
+
+#: ../_output_guestbook.php:149
+msgid "EntryNo"
+msgstr "Entrée"
+
+#: ../_output_guestbook.php:158
+msgid "Date"
+msgstr "Date"
+
+#: ../_output_guestbook.php:160
+msgid "H:i"
+msgstr "H:i"
+
+#: ../_output_guestbook.php:160
+msgid "m.d.Y"
+msgstr "d.M.Y"
+
+#: ../_output_guestbook.php:188
+msgid "This entry is awaiting moderation"
+msgstr "Ce commentaire est en attente de modération"
+
+#: ../_output_guestbook.php:195
+msgid "hidden"
+msgstr "caché"
+
+#: ../_output_guestbook.php:250
+msgid "Name"
+msgstr "Nom"
+
+#: ../_output_guestbook.php:258
+msgid "Email"
+msgstr "E-mail"
+
+#: ../_output_guestbook.php:266
+msgid "Homepage"
+msgstr "Page Web"
+
+#: ../_output_guestbook.php:270
+msgid "optional"
+msgstr "facultatif"
+
+#: ../_output_guestbook.php:282
+msgid "*If you'd like to customize these values, please "
+msgstr "*Si vous voulez personnaliser ces valeurs, veuillez vous "
+
+#: ../_output_guestbook.php:282
+msgid "Logout"
+msgstr "déconnecter"
+
+#: ../_output_guestbook.php:287
+msgid "Text"
+msgstr "Message"
+
+#: ../_output_guestbook.php:289
+msgid "Send"
+msgstr "Envoyer"
+
+#: ../_output_guestbook.php:304
+#, php-format
+msgid "Add photo (max %dkb)"
+msgstr "Ajouter une photo (max %dkb)"
+
+#: ../easy-comment-uploads/main.php:86
+msgid "Upload Files"
+msgstr "Uploader un fichier"
+
+#: ../easy-comment-uploads/main.php:87
+msgid "You can include images or files in your comment by selecting them below. Once you select a file, it will be uploaded and a link to it added to your comment. You can upload as many images or files as you like and they will all be added to your comment."
+msgstr "Vous pouvez inclure des images ou des fichiers dans vos commentaires en les sélectionnant en dessous. Une fois votr fichier sélectionné, il sera uploadé et un lien sera ajouté à votre commentaire. Vous pouvez ajouter autant de fichier que vous désirez."
+
+#: ../easy-comment-uploads/main.php:88
+msgid "Select File"
+msgstr "Sélectionner un fichier"
+
