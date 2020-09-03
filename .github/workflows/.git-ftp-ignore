@@ -1,0 +1,9 @@
+.github/*
+awstats.averbode.scoutnet.be.conf
+README.md
+mailing/*
+public_html/mystats/*
+public_html/wp-admin/*
+public_html/wp-content/*
+public_html/wp-includes/*
+
