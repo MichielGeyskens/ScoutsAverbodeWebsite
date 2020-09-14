@@ -1,7 +1,6 @@
 # ScoutsAverbodeWebsite
 Ge moet alleen wa rond klote met de html/css bestanden in public_html
-aan die php bestanden ben ik nog nooit aan geweest geen idee voor wat die goed zijn
+Vroeger werd er met wordpress gewerk (php) ma aan die php bestanden 
+moete nie aankomen geen iedee of die nog nut hebben ma laat die ma voorloig staan
 
-
-ftp test
 
