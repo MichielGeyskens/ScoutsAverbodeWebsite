@@ -3,7 +3,8 @@ awstats.averbode.scoutnet.be.conf
 README.md
 mailing/*
 public_html/mystats/*
-public_html/wp-admin/*
-public_html/wp-content/*
-public_html/wp-includes/*
+public_html/wp-admin.old/*
+public_html/wp-content.old/*
+public_html/wordpress.old/*
+public_html/wp-includes.old/*
 
