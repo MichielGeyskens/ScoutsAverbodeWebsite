@@ -3532,12 +3532,16 @@ textarea.form-control-lg {
 }
 
 .dropdown-toggle {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   white-space: nowrap;
   display: block;
   padding: 0.5rem 1rem;
   color: white;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.dropdown-toggle:hover{
+  color: #DB232D 
 }
 .dropdown-toggle::after {
   display: inline-block;
