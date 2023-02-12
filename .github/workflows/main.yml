@@ -11,6 +11,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: ftp://ftp4.scoutsnet.be/
+        server: ftp4.scoutsnet.be
         username: sn0774
         password: ${{ secrets.FTP_PASSWORD }}
+        protocol: ftp
