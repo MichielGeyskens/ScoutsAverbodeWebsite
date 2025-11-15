@@ -4114,7 +4114,7 @@ fieldset:disabled .btn {
 .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #db232d;
+  background-color: green;
 }
 .dropdown-item.disabled,
 .dropdown-item:disabled {
@@ -4285,7 +4285,7 @@ fieldset:disabled .btn {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #db232d;
+  color: green;
   text-decoration: none;
   transition:
     color 0.15s ease-in-out,
