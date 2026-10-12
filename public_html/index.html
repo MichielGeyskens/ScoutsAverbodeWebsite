@@ -15,8 +15,27 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Hoofd CSS (ook Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <!-- Popup nieuwe site 2026-2027: zonder JS, de verborgen checkbox sluit hem (kruisje of klik ernaast) -->
+        <style>
+          .popup-toggle:checked + .popup-overlay { display: none; }
+          .popup-overlay { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 2000; display: flex; align-items: center; justify-content: center; padding: 1rem; }
+          .popup-achtergrond { position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin: 0; background: rgba(0, 0, 0, 0.6); cursor: pointer; }
+          .popup-kader { position: relative; width: 100%; max-width: 420px; padding: 2rem 1.5rem 1.5rem; background: #fff; border-radius: 0.5rem; text-align: center; box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.3); }
+          .popup-sluit { position: absolute; top: 0.25rem; right: 0.75rem; font-size: 2rem; line-height: 1; color: #6c757d; cursor: pointer; }
+        </style>
     </head>
     <body id="page-top">
+        <!-- Popup nieuwe site 2026-2027 -->
+        <input type="checkbox" id="popup-sluiten" class="popup-toggle" hidden>
+        <div class="popup-overlay">
+          <label for="popup-sluiten" class="popup-achtergrond" aria-label="Sluiten"></label>
+          <div class="popup-kader" role="dialog" aria-labelledby="popup-titel">
+            <label for="popup-sluiten" class="popup-sluit" aria-label="Sluiten">&times;</label>
+            <h4 id="popup-titel" class="section-heading">Nieuw werkjaar, nieuwe website!</h4>
+            <p class="text-muted">Alle info over de werking van <span class="text-nowrap">2026-2027</span> vind je op onze nieuwe website.</p>
+            <a class="btn btn-primary" href="https://www.scoutsaverbode.com/" target="_blank" rel="noopener nofollow">Naar scoutsaverbode.com</a>
+          </div>
+        </div>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container-fluid">
